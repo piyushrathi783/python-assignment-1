@@ -1,4 +1,4 @@
-# Name: Sarthak 
+# Name: piyush
 # Date:2 November 2025
 # Project:Daily calorie tracker
 
@@ -41,4 +41,5 @@ for meal,cal in zip(meals,calories):
 
 print("-" * 18)
 print(f"{'Total':<30}{total_calories}")
+
 print(f"{'Average':<30}{average_calories:.2f}")
